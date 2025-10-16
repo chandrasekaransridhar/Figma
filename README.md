@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:16\10\2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -109,6 +109,7 @@ last page
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2025-10-16 211343.png>)
 
 
 ## RESULT:
